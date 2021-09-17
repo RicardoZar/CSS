@@ -1,0 +1,30 @@
+.title {
+    font-family: 'Titillium Web', sans-serif;
+    text-align: center;
+    font-weight: 100;
+}
+.subtitle {
+    font-family: 'Noto Serif', serif;
+}
+.title {
+    font-family: 'Almendra', serif;
+}
+.title2 {
+    font-family: 'Delius Swash Caps', cursive;
+}
+.title3 {
+    font-family: 'Montserrat Subrayada', sans-serif;
+}
+.title4 {
+    color: rgb(133, 80, 255);
+    font-family: 'Nova Square', cursive;
+}
+.title5 {
+    font-family: 'Trade Winds', cursive;
+    animation:infinite;
+
+}
+body {
+    background-image: src="https://pbs.twimg.com/media/Ew-7AmtUYAUZwNx?format=jpg&name=small";
+    background-size: auto;
+}

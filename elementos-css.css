@@ -1,0 +1,26 @@
+.title {
+    text-align: center;
+    color: royalblue;
+    background-color: black;
+    border: 5px dotted red;
+    margin: 50px;
+}
+.subtitle {
+    margin: 30px;
+    text-align: center;
+    color: #adf010;
+    background-color: rgba(0, 0, 0, 0.425);
+    border: 5px dotted #ff00008c;
+}
+#caja, #caja2 {
+    background-color: black;
+}
+#caja {
+    color: white;
+    width: 400px;
+    height: 200px;
+    margin: 0 auto;
+}
+#caja2 {
+    color: white;
+}

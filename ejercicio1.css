@@ -1,0 +1,28 @@
+.title {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+.subtitle {
+    background-color: hsla(0, 0%, 66%, 0.986);
+    color: white;
+}
+body {
+    background-color: lightgray;
+    background-size: auto;
+
+}
+.red {
+    color: tomato;
+    font-style: italic;
+}
+.paper {
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+}
+.parrafos {
+    text-align: right;
+}
+img {
+    float: left;
+
+}
